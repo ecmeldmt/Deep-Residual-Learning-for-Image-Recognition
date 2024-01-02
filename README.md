@@ -55,8 +55,8 @@ Our model achieves the following performance on :
 
 | Model name         | Top  Accuracy   | 
 | ------------------ |---------------- | 
-| CNN model          |     75%         | 
-| ResNet model       |     85%         |
-| ResNeXt model      |     75%         |
-| DenseNet model     |     84%         |
+| CNN model          |     96%         | 
+| ResNet model       |     98%         |
+| ResNeXt model      |     90%         |
+| DenseNet model     |     97%         |
 
